@@ -1,0 +1,27 @@
+body    {
+    background-color:rgba(60,115,155,1);
+    color:#ddd;
+    padding:0;
+    margin:2%;
+    margin-top:0;
+}
+
+header  {
+    display:block;
+    background-color:rgba(20,75,115,0.8);
+    width:120%;
+    margin-left:-10%;
+    margin-top:0;
+    position:sticky;
+    min-height:10%;
+    height:20%;
+}
+
+h2  {
+    text-decoration:underline;
+    text-align:center;
+}
+
+h3  {
+    font-style:italic;
+}
