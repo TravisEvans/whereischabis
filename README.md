@@ -1,7 +1,7 @@
 # Where is Chabis?
----
-## Initial plans
 
+
+## Initial plans
 The following is a documentation of the process and functionality of the ChaBox, a Pi4 with functionality useful to myself, initially starting as a GPS and weather station sending information to the web using wifi over 4G.
 
 I would like this Pi to act as a gateway between a myriad of projects; I want it to be used for as much as possible, call it curiosity.
@@ -9,7 +9,8 @@ Originally I wished to make a low power device that every 2-4 hours would ping G
 
 *Why can't it do everything?*
 
-I need storage. I need FTP and Portability at the same time. I need a web server. I need GPS functionality. I need weather information. I need a portable desktop. I need **this** funny little project.
+I need storage. I need FTP and Portability at the same time. I need a web server. I need GPS functionality. I need weather information. I need a portable desktop. I need _this_ funny little project.
+
 ---
 ## Initial Parts
 **The parts provided for this project initially include:**
