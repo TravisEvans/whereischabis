@@ -28,5 +28,11 @@ I need storage. I need FTP and Portability at the same time. I need a web server
 - Pi4 good, little computer in my pocket. I can now work from anywhere, and recent circumstances make it hard for me to carry even a laptop with me.
 - SEN-10988 is easy as piss, I love these sensors. There's still an issue though; Although the Pi setup is (potentially) a prototype tool for a lower level MCU, this temperature sensor will sit in a bag whilst I travel, lest I situate the ChaBox externally and risk environmental factors. I think the Pi should have enough GPIO pins to not have to worry about that aspect.
 ---
+## TODO
+0. Investigate parts some more.
+1. Get M.2 key B, and SD card. 
+2. Flash em, stick em together.
+3. Grab a breadboard and stick some shit together. See what barks, see what doesn't.
+4. Basically a little bit of everything.
 
-### <p style="color:pink">This is in development, much is to be changed and updated</p>
+### This is in development, much is to be changed and updated
