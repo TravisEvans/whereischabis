@@ -1,4 +1,4 @@
-# Where is Chabis?
+# Where is Chabis - The ChaBox?
 
 
 ## Initial plans
