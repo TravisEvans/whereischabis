@@ -1,11 +1,9 @@
 # Where is Chabis?
-
 The following is a documentation of the process and functionality of the ChaBox, a Pi4 with functionality useful to myself, initially starting as a GPS and weather station sending information to the web using wifi over 4G.
 ---
 ## Initial plans
 I would like this Pi to act as a gateway between a myriad of projects; I want it to be used for as much as possible, call it curiosity.
 Originally I wished to make a low power device that every 2-4 hours would ping GPS information to a web server using 4G, but going for something at a higher level with a higher power draw allows significantly more flexibility and adaptability: *Why can't it do everything?*
-
 I need storage. I need FTP and Portability at the same time. I need a web server. I need GPS functionality. I need weather information. I need a portable desktop. I need **this** funny little project.
 ---
 ## Initial Parts
@@ -23,5 +21,6 @@ I need storage. I need FTP and Portability at the same time. I need a web server
 - The Argon case provides access to the GPIOs, but the storage of the rest of the shit can't really just dangle off the Argon case. I'll super glue them together (that is a joke, I'll get to what I do with this later)
 - Pi4 good, little computer in my pocket. I can now work from anywhere, and recent circumstances make it hard for me to carry even a laptop with me.
 - SEN-10988 is easy as piss, I love these sensors. There's still an issue though; Although the Pi setup is (potentially) a prototype tool for a lower level MCU, this temperature sensor will sit in a bag whilst I travel, lest I situate the ChaBox externally and risk environmental factors. I think the Pi should have enough GPIO pins to not have to worry about that aspect.
+---
 
 ### This is in development, much is to be changed and updated
